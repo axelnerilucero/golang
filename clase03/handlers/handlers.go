@@ -3,7 +3,7 @@ package handlers
 import (
 	"bufio"
 	"clase_03_mysql_driver/conectar"
-	"clase_03_mysql_driver/modelos"
+	_ "clase_03_mysql_driver/modelos"
 	"fmt"
 	"log"
 	"os"
