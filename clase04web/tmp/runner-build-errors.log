@@ -1,0 +1,2 @@
+# clase_04_web/rutas
+rutas\rutas.go:34:13: cannot use response (variable of type http.ResponseWriter) as string value in argument to fmt.Printf
